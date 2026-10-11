@@ -20,11 +20,11 @@
 
 <br><br>
 
-<img
-  src="https://komarev.com/ghpvc/?username=ranggautama47&label=Profile%20Views&color=0e75b6&style=flat"
-  alt="Profile views"
-/>
-
+<p>
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Franggautama47" target="_blank" rel="noopener noreferrer">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Franggautama47&label=Profile%20Views&labelColor=%230e75b6&countColor=%230e75b6&style=flat&start=23" alt="Profile views" />
+  </a>
+</p>
 </div>
 
 ---
