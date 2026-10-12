@@ -8,7 +8,7 @@
 
 <br>
 
-<a href="GANTI_LINK_PORTFOLIO">
+<a href="[GANTI_LINK_PORTFOLIO](https://ranggautamaportofolio.vercel.app/)">
   <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
 </a>
 <a href="https://linkedin.com/in/rangga-utama-6bb76b362/">
@@ -46,9 +46,9 @@ Currently focused on:
 
 | Project                                        | Description                                                                                                                        | Stack                                   |
 | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
-| **[DapurHPP](GANTI_LINK_REPO_DAPURHPP)**       | Management app for a home-based food business: HPP (cost of goods), production costs, inventory, sales, expenses, and profit/loss. | Next.js · NestJS · Prisma · MySQL       |
-| **[SCOPREVO](GANTI_LINK_REPO_SCOPREVO)**       | AI-powered scope and revision management platform for freelancers and agencies to manage client feedback and revision boundaries.  | Vue · Express · TypeScript · PostgreSQL |
-| **[Toko Emas POS](GANTI_LINK_REPO_TOKO_EMAS)** | Interactive POS/ERP prototype for a gold store: sales, buyback, inventory, gold pricing, reporting, and hardware simulation.       | Next.js · NestJS · Prisma · PostgreSQL  |
+| **[DapurHPP](https://github.com/ranggautama47/DapurHPP)**       | Management app for a home-based food business: HPP (cost of goods), production costs, inventory, sales, expenses, and profit/loss. | Next.js · NestJS · Prisma · MySQL       |
+| **[SCOPREVO](https://github.com/ranggautama47/SCOPREVO)**       | AI-powered scope and revision management platform for freelancers and agencies to manage client feedback and revision boundaries.  | Vue · Express · TypeScript · PostgreSQL |
+| **[Toko Emas POS](https://tokoemas.netlify.app/dashboard)** | Interactive POS/ERP prototype for a gold store: sales, buyback, inventory, gold pricing, reporting, and hardware simulation.       | Next.js · NestJS · Prisma · PostgreSQL  |
 
 <!-- TODO: tambahkan link demo/screenshot per project, contoh:
 [Live demo](LINK) · [Screenshot](./asset/dapurhpp.png)
@@ -122,6 +122,6 @@ Currently focused on:
 
 ### Let's build something useful.
 
-[Portfolio](GANTI_LINK_PORTFOLIO) · [LinkedIn](https://linkedin.com/in/rangga-utama-6bb76b362/) · [Email](mailto:ranggau727@gmail.com)
+[Portfolio](https://ranggautamaportofolio.vercel.app/) · [LinkedIn](https://linkedin.com/in/rangga-utama-6bb76b362/) · [Email](mailto:ranggau727@gmail.com)
 
 </div>
