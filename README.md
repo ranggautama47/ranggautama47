@@ -8,7 +8,7 @@
 
 <br>
 
-<a href="[GANTI_LINK_PORTFOLIO](https://ranggautamaportofolio.vercel.app/)">
+<a href="https://ranggautamaportofolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
 </a>
 <a href="https://linkedin.com/in/rangga-utama-6bb76b362/">
